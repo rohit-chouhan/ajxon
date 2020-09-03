@@ -10,7 +10,7 @@ table | Database's Table name where Data will be stored/insert |
 type| Ajax Data return type |
 include| Name of folder, where **url** will be saved (ex. foldername/save.php), if you leave it blank. it will store in root folder |
 field | HTML form's Input name & Database Field Name (You can add multiple Object for Input) |
-| | Ex. **"db_field_name" : " input_name : input_type : "true"** |
+| | Ex. `"db_field_name" : "input_name : input_type : true"` |
 | | True -> Input Field Required |
 | | False -> Optional |
 db | Database connectivity information, you have to provide database HOST, USERNAME, PASSWORD, and DATABASE name |
@@ -46,14 +46,14 @@ JS/Ajax | ![JS CODE](https://i.ibb.co/wJhZ9ft/js.png) |
 PHP | ![PHP](https://i.ibb.co/D80pw3N/php.png) |
 
 ## Documention
-Download Ajxon and Copy Ajxon.php to your root folder in project. create new page or include Ajxon.php **[require "Ajxon.php";]** in exist page. create obj of **[new Ajxon()]** and have fun!
+Download Ajxon and Copy `Ajxon.php` to your root folder in project. create new page or include Ajxon.php `require "Ajxon.php";` in exist page. create obj of `new Ajxon()` and have fun!
 
 Function | Use 
 --- | --- |
 $obj->set(<json>) | the function can send JSON to Ajxon Class.
 $obj->html() | return the all HTML Form & Input to Page
 $obj->js() | return the Js/Ajax Code to Page
-$obj->php() | this function not return any code, the function can only generate code and save automatically to given **"include"** (folder) by user in JSON
+$obj->php() | this function not return any code, the function can only generate code and save automatically to given `"include"` (folder) by user in JSON
     
 ## Example Complete Code
 Here the complete sample code of PHP.
