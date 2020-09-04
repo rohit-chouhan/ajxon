@@ -1,5 +1,5 @@
 {
-	"name": "@rohit-chouhan/ajxon",
+	"name": "ajxon",
 	"version": "1.0.0",
 	"description": "Dynamic Ajax Code & UI Generator PHP Framework",
 	"main": "docs/index.html",
