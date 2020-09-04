@@ -8,6 +8,12 @@ Download the master zip and paste the Ajxon Folder to your PHP Root Folder, and 
 ```sh
 $ npm install rohit-chouhan/ajxon
 ```
+### Available on `npmjs.com` also
+
+Go to [https://www.npmjs.com/package/ajxon](https://www.npmjs.com/package/ajxon)
+```sh
+$ npm i ajxon
+```
 
 ### Ajxon Objects
 Objects | Use 
