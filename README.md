@@ -22,6 +22,7 @@ input field | HTML form's Input name & Database Field Name (You can add multiple
 | | True -> Input Field Required |
 | | False -> Optional |
 db | Database connectivity information, you have to provide database HOST, USERNAME, PASSWORD, and DATABASE name |
+
 For Select & Radio Field Use :-
 
 ###### 1. Select Field
