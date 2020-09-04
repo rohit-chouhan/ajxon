@@ -130,6 +130,16 @@ $obj->php(); //Save (Database's) php file in Back-end
     <!-- Getting JS/Ajax Code -->
 </html>
 ```
+#### Ajxon Structure
+```
+ajxon/
+├── cons/
+│   |── Bootstrap.php
+│   ├── Input.php
+│   └── Err/
+│        └── Invalid.php  
+└── Ajxon.php
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) License
