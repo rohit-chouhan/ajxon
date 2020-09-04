@@ -54,6 +54,13 @@ $obj->set(<json>) | the function can send JSON to Ajxon Class.
 $obj->html() | return the all HTML Form & Input to Page
 $obj->js() | return the Js/Ajax Code to Page
 $obj->php() | this function not return any code, the function can only generate code and save automatically to given `"include"` (folder) by user in JSON
+$obj->inputclass() | apply class to input field `ex. $obj->inputclass('form-control')` |
+$obj->inputstyle() | apply css to input field `ex. $obj->inputstyle('color:blue;')` |
+$obj->btnclass() | apply class to button `ex. $obj->btnclass('btn-primary')` |
+$obj->btnstyle() | apply css to button `ex. $obj->btnclass('background:blue;')` |
+$obj->btnname() | change name of button `ex. $obj->btnname('Apply Form')` |
+$obj->bootstrap() | auto beautify the HTML form `ex. $obj->bootstrap()` |
+
     
 ## Example Complete Code
 Here the complete sample code of PHP.
