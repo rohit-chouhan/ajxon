@@ -1,12 +1,12 @@
 {
-	"name": "ajxon",
-	"version": "1.0.0",
+	"name": "@ajxon",
+	"version": "1.0.1",
 	"description": "Dynamic Ajax Code & UI Generator PHP Framework",
 	"main": "docs/index.html",
 	"author": "rohit-chouhan",
 	"license": "MIT",
 	"dependencies": {
-		"@rohit-chouhan/ajxon": "1.0.0"
+		"@rohit-chouhan/ajxon": "1.0.1"
 	},
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com/"
