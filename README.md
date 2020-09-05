@@ -12,7 +12,7 @@ $ npm install rohit-chouhan/ajxon
 
 Go to [https://www.npmjs.com/package/ajxon](https://www.npmjs.com/package/ajxon)
 ```sh
-$ npm i ajxon
+$ npm i @rohit-chouhan/ajxon
 ```
 
 ### Ajxon Objects
