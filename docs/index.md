@@ -16,18 +16,7 @@ $ npm i @rohit-chouhan/ajxon
 ```
 
 ### Ajxon Objects
-Objects | Use 
---- | --- |
-url | PHP back-end page name, where database queries will generate |
-form | HTML form name |
-table | Database's Table name where Data will be stored/insert |
-type| Ajax Data return type |
-include| Name of folder, where **url** will be saved (ex. foldername/save.php), if you leave it blank. it will store in root folder |
-input field | HTML form's Input name & Database Field Name (You can add multiple Object for Input) |
-input field | Ex. `"db_field_name" : "input_name : input_type : true"` |
-input field | True -> Input Field Required |
-input field | False -> Optional |
-db | Database connectivity information, you have to provide database HOST, USERNAME, PASSWORD, and DATABASE name |
+![Table](https://i.ibb.co/xM9xySZ/table.png)
 
 For Select & Radio Field Use :-
 
