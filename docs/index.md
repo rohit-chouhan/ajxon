@@ -24,9 +24,9 @@ table | Database's Table name where Data will be stored/insert |
 type| Ajax Data return type |
 include| Name of folder, where **url** will be saved (ex. foldername/save.php), if you leave it blank. it will store in root folder |
 input field | HTML form's Input name & Database Field Name (You can add multiple Object for Input) |
-- | Ex. `"db_field_name" : "input_name : input_type : true"` |
-- | True -> Input Field Required |
-- | False -> Optional |
+input field | Ex. `"db_field_name" : "input_name : input_type : true"` |
+input field | True -> Input Field Required |
+input field | False -> Optional |
 db | Database connectivity information, you have to provide database HOST, USERNAME, PASSWORD, and DATABASE name |
 
 For Select & Radio Field Use :-
