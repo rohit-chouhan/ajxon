@@ -1,4 +1,4 @@
-# Ajxon
+# Ajxon 2.0
 A JSON to Ajax UI Generator for Dynamic Work, with PHP, Ajxon system gives Ajax, PHP, HTML Form Code from JSON Structure. You can produce a total Dynamic Ajax stage from JSON.
 
 ## Quick Installation
